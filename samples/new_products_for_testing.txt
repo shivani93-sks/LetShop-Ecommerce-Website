@@ -1,0 +1,89 @@
+======================================================================
+LETSHOP - QUICK COPY-PASTE GUIDE FOR TESTING "ADD PRODUCT"
+======================================================================
+HOW TO USE THIS FILE:
+1. Open LetShop in your browser (index.html).
+2. Click "Add Product" in the top navigation bar.
+3. Copy and paste each field below into the corresponding form input.
+4. For "Product Image", click "Choose File" and select the matching .jpg
+   file located in this same "samples/" folder.
+5. Click "Save Product".
+6. Your new product will appear immediately on the home page!
+======================================================================
+
+TEST PRODUCT 1 (Smartphone):
+----------------------------------------------------------------------
+Product Name:       Samsung Galaxy S24 Ultra
+Image File:         Samsung_Galaxy_S24_Ultra.jpg
+Brand:              Samsung
+Description:        Flagship smartphone with S-Pen.
+Price (₹):          129999
+Stock Quantity:     20
+Category:           Phones
+Release Date:       2024-01-24
+Product Available:  Checked (In Stock)
+
+
+TEST PRODUCT 2 (Laptop):
+----------------------------------------------------------------------
+Product Name:       Dell XPS 13 Laptop
+Image File:         Dell_XPS_13_Laptop.jpg
+Brand:              Dell
+Description:        Ultra-thin OLED laptop.
+Price (₹):          134990
+Stock Quantity:     12
+Category:           Laptops
+Release Date:       2024-03-15
+Product Available:  Checked (In Stock)
+
+
+TEST PRODUCT 3 (Earbuds / Accessories):
+----------------------------------------------------------------------
+Product Name:       Apple AirPods Pro 2
+Image File:         Apple_AirPods_Pro.jpg
+Brand:              Apple
+Description:        Wireless noise canceling earbuds.
+Price (₹):          24900
+Stock Quantity:     35
+Category:           Phones
+Release Date:       2023-11-10
+Product Available:  Checked (In Stock)
+
+
+TEST PRODUCT 4 (Fashion / Clothing):
+----------------------------------------------------------------------
+Product Name:       Levi's Classic Denim Jacket
+Image File:         Levis_Denim_Jacket.jpg
+Brand:              Levi's
+Description:        Classic denim trucker jacket.
+Price (₹):          4999
+Stock Quantity:     50
+Category:           Clothing
+Release Date:       2024-02-05
+Product Available:  Checked (In Stock)
+
+
+TEST PRODUCT 5 (Gaming Console / Toys):
+----------------------------------------------------------------------
+Product Name:       Sony PlayStation 5 Console
+Image File:         Sony_PlayStation_5.jpg
+Brand:              Sony
+Description:        Next-gen 4K gaming console.
+Price (₹):          54990
+Stock Quantity:     15
+Category:           Toys
+Release Date:       2023-10-18
+Product Available:  Checked (In Stock)
+
+
+TEST PRODUCT 6 (LEGO / Toys):
+----------------------------------------------------------------------
+Product Name:       LEGO Star Wars Millennium Falcon
+Image File:         LEGO_Star_Wars_Falcon.jpg
+Brand:              LEGO
+Description:        Star Wars starship building set.
+Price (₹):          14999
+Stock Quantity:     22
+Category:           Toys
+Release Date:       2023-12-01
+Product Available:  Checked (In Stock)

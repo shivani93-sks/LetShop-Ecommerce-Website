@@ -1,0 +1,172 @@
+======================================================================
+LETSHOP - SAMPLE PRODUCTS FOR TESTING
+======================================================================
+Folder Location: samples/
+All image files are .jpg format and named directly after the products.
+======================================================================
+
+----------------------------------------------------------------------
+SECTION 1: DEFAULT / INITIAL CATALOG PRODUCTS (PRODUCTS 1 - 6)
+These are already pre-loaded into the store catalog.
+----------------------------------------------------------------------
+
+PRODUCT 1:
+----------
+Product Name: Apple Watch Series 9
+Image File: Apple_Watch_Series_9.jpg
+Brand: Apple
+Description: Smartwatch with fitness tracking.
+Price: 41999
+Stock Quantity: 15
+Category: phone
+Release Date: 2024-09-15
+Product Available: true
+
+
+PRODUCT 2:
+----------
+Product Name: Sony WH-1000XM5 Headphones
+Image File: Sony_WH_1000XM5_Headphones.jpg
+Brand: Sony
+Description: Wireless noise canceling headphones.
+Price: 29990
+Stock Quantity: 25
+Category: audio
+Release Date: 2024-05-20
+Product Available: true
+
+
+PRODUCT 3:
+----------
+Product Name: Nike Air Zoom Sneakers
+Image File: Nike_Air_Zoom_Sneakers.jpg
+Brand: Nike
+Description: Lightweight running shoes.
+Price: 10495
+Stock Quantity: 40
+Category: fashion
+Release Date: 2024-03-10
+Product Available: true
+
+
+PRODUCT 4:
+----------
+Product Name: Keychron Mechanical Keyboard
+Image File: Keychron_Mechanical_Keyboard.jpg
+Brand: Keychron
+Description: Wireless mechanical keyboard.
+Price: 16999
+Stock Quantity: 18
+Category: laptop
+Release Date: 2024-02-18
+Product Available: true
+
+
+PRODUCT 5:
+----------
+Product Name: Canon EOS R50 Camera
+Image File: Canon_EOS_R50_Camera.jpg
+Brand: Canon
+Description: Compact 4K mirrorless camera.
+Price: 58990
+Stock Quantity: 8
+Category: camera
+Release Date: 2024-06-01
+Product Available: true
+
+
+PRODUCT 6:
+----------
+Product Name: Logitech Gaming Mouse
+Image File: Logitech_Gaming_Mouse.jpg
+Brand: Logitech
+Description: Wireless gaming mouse.
+Price: 11490
+Stock Quantity: 30
+Category: toy
+Release Date: 2024-04-12
+Product Available: true
+
+
+======================================================================
+SECTION 2: NEW PRODUCTS READY FOR "ADD PRODUCT" TESTING (PRODUCTS 7 - 12)
+Use these to test adding products through the website form!
+Each product has a matching .jpg file in the samples/ folder.
+======================================================================
+
+PRODUCT 7:
+----------
+Product Name: Samsung Galaxy S24 Ultra
+Image File: Samsung_Galaxy_S24_Ultra.jpg
+Brand: Samsung
+Description: Flagship smartphone with S-Pen.
+Price: 129999
+Stock Quantity: 20
+Category: phone
+Release Date: 2024-01-24
+Product Available: true
+
+
+PRODUCT 8:
+----------
+Product Name: Dell XPS 13 Laptop
+Image File: Dell_XPS_13_Laptop.jpg
+Brand: Dell
+Description: Ultra-thin OLED laptop.
+Price: 134990
+Stock Quantity: 12
+Category: laptop
+Release Date: 2024-03-15
+Product Available: true
+
+
+PRODUCT 9:
+----------
+Product Name: Apple AirPods Pro 2
+Image File: Apple_AirPods_Pro.jpg
+Brand: Apple
+Description: Wireless noise canceling earbuds.
+Price: 24900
+Stock Quantity: 35
+Category: phone
+Release Date: 2023-11-10
+Product Available: true
+
+
+PRODUCT 10:
+----------
+Product Name: Levi's Classic Denim Jacket
+Image File: Levis_Denim_Jacket.jpg
+Brand: Levi's
+Description: Classic denim trucker jacket.
+Price: 4999
+Stock Quantity: 50
+Category: fashion
+Release Date: 2024-02-05
+Product Available: true
+
+
+PRODUCT 11:
+----------
+Product Name: Sony PlayStation 5 Console
+Image File: Sony_PlayStation_5.jpg
+Brand: Sony
+Description: Next-gen 4K gaming console.
+Price: 54990
+Stock Quantity: 15
+Category: toy
+Release Date: 2023-10-18
+Product Available: true
+
+
+PRODUCT 12:
+----------
+Product Name: LEGO Star Wars Millennium Falcon
+Image File: LEGO_Star_Wars_Falcon.jpg
+Brand: LEGO
+Description: Star Wars starship building set.
+Price: 14999
+Stock Quantity: 22
+Category: toy
+Release Date: 2023-12-01
+Product Available: true
